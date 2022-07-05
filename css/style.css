@@ -15,7 +15,7 @@ body {
     width: 47.37px;
     height: 36.63px;
     right: 112.44px;
-    top: 14px;
+    top: 19px;
 }
 
 .search {
@@ -33,7 +33,7 @@ body {
 
 .navbar-menu ul {
     padding: 0;
-    margin: -10px 180px 0px 0px;
+    margin: -10px 239px 0px 0px;
     float: right;
     width: 740px;
     display: flex;
@@ -728,7 +728,6 @@ footer .paragraph p a {
     .header-span {
         margin-right: 20px;
     }
-    .navbar-menu ul {}
     header h1 {
         padding-right: 20px;
     }
